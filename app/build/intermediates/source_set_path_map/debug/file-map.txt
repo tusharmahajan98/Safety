@@ -1,0 +1,38 @@
+com.safety.woman.app-lifecycle-runtime-2.5.1-0 C:\Users\Dell\.gradle\caches\transforms-3\0f9bc3b4ba5e635f38d9d2536948b59b\transformed\lifecycle-runtime-2.5.1\res
+com.safety.woman.app-jetified-play-services-basement-18.1.0-1 C:\Users\Dell\.gradle\caches\transforms-3\107ce3b82486b19862f7df451c329a1d\transformed\jetified-play-services-basement-18.1.0\res
+com.safety.woman.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-2 C:\Users\Dell\.gradle\caches\transforms-3\13fe440979fd9cf753ac5127e6726724\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.safety.woman.app-material-1.8.0-3 C:\Users\Dell\.gradle\caches\transforms-3\22ae608f4aa623291a40fdc91f48def1\transformed\material-1.8.0\res
+com.safety.woman.app-jetified-appcompat-resources-1.6.1-4 C:\Users\Dell\.gradle\caches\transforms-3\2aa5326902a8d8f873b35527e35cd322\transformed\jetified-appcompat-resources-1.6.1\res
+com.safety.woman.app-coordinatorlayout-1.1.0-5 C:\Users\Dell\.gradle\caches\transforms-3\2b79ee68cdf092d3e59e5fae85701600\transformed\coordinatorlayout-1.1.0\res
+com.safety.woman.app-cardview-1.0.0-6 C:\Users\Dell\.gradle\caches\transforms-3\35061aabe1ebe1b2b6f22423931a79c4\transformed\cardview-1.0.0\res
+com.safety.woman.app-jetified-play-services-base-17.5.0-7 C:\Users\Dell\.gradle\caches\transforms-3\357fc1aebb4856b7808470c7e67a7c70\transformed\jetified-play-services-base-17.5.0\res
+com.safety.woman.app-browser-1.4.0-8 C:\Users\Dell\.gradle\caches\transforms-3\412858af4d006799c5e8703542c7e337\transformed\browser-1.4.0\res
+com.safety.woman.app-lifecycle-livedata-core-2.5.1-9 C:\Users\Dell\.gradle\caches\transforms-3\4730724a0fb37bf5f939d50fd6514a24\transformed\lifecycle-livedata-core-2.5.1\res
+com.safety.woman.app-core-1.9.0-10 C:\Users\Dell\.gradle\caches\transforms-3\4d963886747f4003715ccd63df281c13\transformed\core-1.9.0\res
+com.safety.woman.app-jetified-emoji2-views-helper-1.2.0-11 C:\Users\Dell\.gradle\caches\transforms-3\5865c2884c028525926fd092c21d1027\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.safety.woman.app-jetified-activity-1.6.0-12 C:\Users\Dell\.gradle\caches\transforms-3\64205bbf08af54032c2f184e197feafe\transformed\jetified-activity-1.6.0\res
+com.safety.woman.app-lifecycle-viewmodel-2.5.1-13 C:\Users\Dell\.gradle\caches\transforms-3\64e4832f1bf895c8929f4bc4a30d971e\transformed\lifecycle-viewmodel-2.5.1\res
+com.safety.woman.app-jetified-play-services-maps-17.0.1-14 C:\Users\Dell\.gradle\caches\transforms-3\726ad508cd1a32091ac53186084e1a3c\transformed\jetified-play-services-maps-17.0.1\res
+com.safety.woman.app-jetified-firebase-common-20.3.1-15 C:\Users\Dell\.gradle\caches\transforms-3\7648c5b6b9f94ae0110f64f5e9c7e483\transformed\jetified-firebase-common-20.3.1\res
+com.safety.woman.app-jetified-savedstate-1.2.0-16 C:\Users\Dell\.gradle\caches\transforms-3\792bdd0561b3874cfcebb1d1b0cb525d\transformed\jetified-savedstate-1.2.0\res
+com.safety.woman.app-drawerlayout-1.1.1-17 C:\Users\Dell\.gradle\caches\transforms-3\7a8e0013875965f55990465ad25a111b\transformed\drawerlayout-1.1.1\res
+com.safety.woman.app-transition-1.2.0-18 C:\Users\Dell\.gradle\caches\transforms-3\8d4f9219c841cf8d4a9697638f784a6f\transformed\transition-1.2.0\res
+com.safety.woman.app-jetified-startup-runtime-1.1.1-19 C:\Users\Dell\.gradle\caches\transforms-3\95c0b2d3c748ff775e381c7a499fa54e\transformed\jetified-startup-runtime-1.1.1\res
+com.safety.woman.app-fragment-1.3.6-20 C:\Users\Dell\.gradle\caches\transforms-3\96ff665140f14c899cb7c8a7a15ac23b\transformed\fragment-1.3.6\res
+com.safety.woman.app-jetified-annotation-experimental-1.3.0-21 C:\Users\Dell\.gradle\caches\transforms-3\9a61fd1d22e3c54df8f84c3b68ea148a\transformed\jetified-annotation-experimental-1.3.0\res
+com.safety.woman.app-jetified-lifecycle-process-2.4.1-22 C:\Users\Dell\.gradle\caches\transforms-3\9deaec92174f166c2fdcfb7abed443cd\transformed\jetified-lifecycle-process-2.4.1\res
+com.safety.woman.app-jetified-emoji2-1.2.0-23 C:\Users\Dell\.gradle\caches\transforms-3\b4bc13a9fcb12d504fec4f61889f9b07\transformed\jetified-emoji2-1.2.0\res
+com.safety.woman.app-jetified-core-ktx-1.9.0-24 C:\Users\Dell\.gradle\caches\transforms-3\beb10b7f22eb6c627ba738ad4a4c9159\transformed\jetified-core-ktx-1.9.0\res
+com.safety.woman.app-recyclerview-1.1.0-25 C:\Users\Dell\.gradle\caches\transforms-3\becc4faf4015ffe145cbc11be96450bf\transformed\recyclerview-1.1.0\res
+com.safety.woman.app-jetified-viewpager2-1.0.0-26 C:\Users\Dell\.gradle\caches\transforms-3\d2f5655b208af8fbbb79261f04b752d6\transformed\jetified-viewpager2-1.0.0\res
+com.safety.woman.app-constraintlayout-2.1.4-27 C:\Users\Dell\.gradle\caches\transforms-3\eeab36679de7cf619edbb40b4b498359\transformed\constraintlayout-2.1.4\res
+com.safety.woman.app-appcompat-1.6.1-28 C:\Users\Dell\.gradle\caches\transforms-3\f920aee82b0d59d26f537eea1a6b2db7\transformed\appcompat-1.6.1\res
+com.safety.woman.app-google-services-29 D:\Android Projects\safety-android\app\build\generated\res\google-services\debug
+com.safety.woman.app-pngs-30 D:\Android Projects\safety-android\app\build\generated\res\pngs\debug
+com.safety.woman.app-resValues-31 D:\Android Projects\safety-android\app\build\generated\res\resValues\debug
+com.safety.woman.app-rs-32 D:\Android Projects\safety-android\app\build\generated\res\rs\debug
+com.safety.woman.app-mergeDebugResources-33 D:\Android Projects\safety-android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.safety.woman.app-mergeDebugResources-34 D:\Android Projects\safety-android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.safety.woman.app-merged_res-35 D:\Android Projects\safety-android\app\build\intermediates\merged_res\debug
+com.safety.woman.app-debug-36 D:\Android Projects\safety-android\app\src\debug\res
+com.safety.woman.app-main-37 D:\Android Projects\safety-android\app\src\main\res

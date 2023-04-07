@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/drawable_ic_contacts.xml.flat",
+        "source": "com.safety.woman.app-main-37:/drawable/ic_contacts.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/drawable_ic_safety.xml.flat",
+        "source": "com.safety.woman.app-main-37:/drawable/ic_safety.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/drawable_girl_vector.png.flat",
+        "source": "com.safety.woman.app-main-37:/drawable/girl_vector.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/layout_activity_nearby_police_web.xml.flat",
+        "source": "com.safety.woman.app-main-37:/layout/activity_nearby_police_web.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.safety.woman.app-main-37:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/layout_activity_login.xml.flat",
+        "source": "com.safety.woman.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/drawable_baseline_local_police_24.xml.flat",
+        "source": "com.safety.woman.app-main-37:/drawable/baseline_local_police_24.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/layout_activity_splash_screen.xml.flat",
+        "source": "com.safety.woman.app-main-37:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/layout_activity_contacts.xml.flat",
+        "source": "com.safety.woman.app-main-37:/layout/activity_contacts.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.safety.woman.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/layout_activity_profile.xml.flat",
+        "source": "com.safety.woman.app-main-37:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/layout_activity_register_number.xml.flat",
+        "source": "com.safety.woman.app-main-37:/layout/activity_register_number.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/drawable_ic_log_out.xml.flat",
+        "source": "com.safety.woman.app-main-37:/drawable/ic_log_out.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/drawable_background.xml.flat",
+        "source": "com.safety.woman.app-main-37:/drawable/background.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/drawable_ic_account.xml.flat",
+        "source": "com.safety.woman.app-main-37:/drawable/ic_account.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/layout_activity_registration.xml.flat",
+        "source": "com.safety.woman.app-main-37:/layout/activity_registration.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.safety.woman.app-main-37:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.safety.woman.app-merged_res-35:/drawable_ic_contact_phone.xml.flat",
+        "source": "com.safety.woman.app-main-37:/drawable/ic_contact_phone.xml"
+    }
+]
